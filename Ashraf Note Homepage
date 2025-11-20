@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ashraf-Note – Home</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #333;
+    }
+    .button {
+      display: inline-block;
+      background: #3498db;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+    .button:hover {
+      background: #217dbb;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      background: #2c3e50;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Ashraf-Note</h1>
+  <nav>
+    <a href="./">Home</a>
+    <a href="./privacy-policy.html">Privacy Policy</a>
+    <a href="./terms.html">Terms & Conditions</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h1>Welcome to Ashraf-Note</h1>
+  <p>Ashraf-Note is a simple, fast, and secure note-taking application developed by <strong>Softfix Online</strong>. It helps you easily create, manage, and sync your notes using Google Login (optional).</p>
+
+  <h2>Features</h2>
+  <ul>
+    <li>Fast and lightweight</li>
+    <li>Google Login (optional)</li>
+    <li>Cloud backup & sync</li>
+    <li>Works fully offline</li>
+    <li>User-friendly interface</li>
+  </ul>
+
+  <h2>Useful Links</h2>
+  <p>
+    <a class="button" href="./privacy-policy.html">View Privacy Policy</a>
+    <a class="button" href="./terms.html" style="margin-left:10px;">View Terms & Conditions</a>
+  </p>
+</div>
+
+<footer>
+  <p>&copy; 2025 Softfix Online. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>

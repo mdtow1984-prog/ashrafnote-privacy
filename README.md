@@ -24,7 +24,7 @@ We value user privacy.
 Read our full policies here:
 
 
-- **Privacy Policy:** YOUR_PRIVACY_POLICY_URL
+- **Privacy Policy:** https://mdtow1984-prog.github.io/ashrafnote-privacy/privacy-policy
 - **Terms & Conditions:** YOUR_TERMS_URL
 
 

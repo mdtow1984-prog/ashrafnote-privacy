@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+color: #333;
+line-height: 1.6;
+}
+.container {
+max-width: 900px;
+margin: 40px auto;
+padding: 20px;
+background: #fff;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2 {
+color: #2b2b2b;
+}
+a {
+color: #0066cc;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Terms & Conditions – Ashraf-Note</h1>
+<p><strong>Last updated:</strong> 20 November 2025</p>
+<p><strong>Developer:</strong> Softfix Online</p>
+
+
+<h2>1. Acceptance of Terms</h2>
+<p>By downloading or using Ashraf-Note, you agree to be bound by these Terms & Conditions. If you do not agree, please uninstall the app.</p>
+
+
+<h2>2. Use of the App</h2>
+<p>Ashraf-Note allows users to create and manage personal notes. You may not use the app for any unlawful or harmful purpose.</p>
+
+
+<h2>3. Google Login</h2>
+<p>Using "Continue with Google" is optional. Login is handled securely by Google. We do not store your Google password or sensitive credentials.</p>
+
+
+<h2>4. Data & Privacy</h2>
+<p>Your privacy is important to us. Please read our full Privacy Policy for details:</p>
+<p><a href="YOUR_PRIVACY_POLICY_URL" target="_blank">Privacy Policy</a></p>
+
+
+<h2>5. Disclaimer</h2>
+<p>Ashraf-Note is provided "as is" without warranties of any kind. We are not responsible for any data loss, malfunction, or damages caused by using the app.</p>
+
+
+<h2>6. Limitation of Liability</h2>
+<p>Softfix Online shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of the app.</p>
+
+
+<h2>7. Modifications</h2>
+<p>We may update these Terms & Conditions at any time. Continued use of the app after updates constitutes acceptance.</p>
+
+
+<h2>8. Contact Us</h2>
+<p>If you have questions regarding these Terms, please contact:</p>
+<p><strong>Softfix Online</strong><br>
+Email: mdtow1984@gmail.com</p>
+</div>
+</body>
+</html>
